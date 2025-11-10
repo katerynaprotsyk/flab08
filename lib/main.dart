@@ -48,7 +48,7 @@ class MyApp extends StatelessWidget {
         textButtonTheme: TextButtonThemeData(
           style: TextButton.styleFrom(
             foregroundColor: Colors.brown[900],
-            textStyle: const TextStyle(fontSize: 16),
+            textStyle: const TextStyle(fontSize: 14),
             padding: const EdgeInsets.symmetric(horizontal: 16),
           ),
         ),

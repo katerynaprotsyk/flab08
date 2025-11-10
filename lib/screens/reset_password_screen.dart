@@ -48,6 +48,7 @@ class ResetPasswordScreen extends StatelessWidget {
                 child: const Text("Reset"),
               ),
             ),
+            const SizedBox(height: 10),
             SizedBox(
               width: double.infinity,
               child: OutlinedButton(

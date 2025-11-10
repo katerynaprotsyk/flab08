@@ -64,6 +64,7 @@ class SignupScreen extends StatelessWidget {
                 child: const Text("Sign up"),
               ),
             ),
+            const SizedBox(height: 10),
             SizedBox(
               width: double.infinity,
               child: OutlinedButton(
